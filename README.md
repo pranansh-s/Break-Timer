@@ -1,3 +1,5 @@
+<img src="public/logo.ico" alt="Icon" width=100px>
+
 # Description
 Desktop app made using electron to help you take breaks while working those long hours.
 
